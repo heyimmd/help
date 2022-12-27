@@ -1,0 +1,22 @@
+1. What was your mini & main project (during your PG/UG)?
+
+2. Have you developed any personal project?
+
+3. Have you user any coding/debuging platforms like HackerRank, HackerEarth, LeetCode, etc. ?
+
+4. What are the three tier of software application architecture?
+Ans: Three-tier architecture is a well-established software application architecture that organizes applications into three logical and physical computing tiers: the presentation tier, or user interface; the application tier, where data is processed; and the data tier, where the data associated with the application is stored and managed.
+
+5. What is HTML/CSS/JS?
+
+6. What is hyperlink?
+
+7. Which type of css styling is faster?
+
+8. What's the difference btw == and === (double equal to and triple equal to)?
+
+9. Difference btw alert, prompt & confirm?
+
+10. What is API and how it works?
+
+11. You have any idea about UX & UI?
