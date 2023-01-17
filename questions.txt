@@ -20,3 +20,29 @@ Ans: Three-tier architecture is a well-established software application architec
 10. What is API and how it works?
 
 11. You have any idea about UX & UI?
+
+
+
+
+https://www.altexsoft.com/blog/business/technical-documentation-in-software-development-types-best-practices-and-tools/
+https://www.nuclino.com/solutions/project-documentation
+
+https://www.youtube.com/watch?v=z3fRu9pkuXE
+https://www.youtube.com/watch?v=2qlcY9LkFik
+
+
+Technical Documentation
+- Outline the topics and structure
+- Reader is Operations and IT Support team.
+- Use simple language, don't use long and complicated info.
+- Use archetucture diagrams to make the reader easy to understand.
+- Why, Who, What and Which?
+- New/Existing/Exp User, Troubleshooting, Internals and Reference.
+- Waterfall Model Fail.
+- Agile Project Management.
+
+
+- Business Logic, tech specification and User flows.
+- Project Documentation 
+	- Product Documentation.
+	- Process Documentation.
