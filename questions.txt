@@ -1,48 +1,15 @@
-1. What was your mini & main project (during your PG/UG)?
-
-2. Have you developed any personal project?
-
-3. Have you user any coding/debuging platforms like HackerRank, HackerEarth, LeetCode, etc. ?
-
-4. What are the three tier of software application architecture?
-Ans: Three-tier architecture is a well-established software application architecture that organizes applications into three logical and physical computing tiers: the presentation tier, or user interface; the application tier, where data is processed; and the data tier, where the data associated with the application is stored and managed.
-
-5. What is HTML/CSS/JS?
-
-6. What is hyperlink?
-
-7. Which type of css styling is faster?
-
-8. What's the difference btw == and === (double equal to and triple equal to)?
-
-9. Difference btw alert, prompt & confirm?
-
-10. What is API and how it works?
-
-11. You have any idea about UX & UI?
-
-
-
-
+Technical Documentation:
 https://www.altexsoft.com/blog/business/technical-documentation-in-software-development-types-best-practices-and-tools/
 https://www.nuclino.com/solutions/project-documentation
-
 https://www.youtube.com/watch?v=z3fRu9pkuXE
 https://www.youtube.com/watch?v=2qlcY9LkFik
 
+Adobe XD:
+https://www.youtube.com/watch?v=f2K1jmjj5pM&list=PLttcEXjN1UcHbhOF4J99QKUiOqt9ETgnb
+https://www.youtube.com/watch?v=uxi-MINm11Q&list=PLCl89DA7ShYRcsdNShcZfR9k0laafRPNv
+https://www.youtube.com/watch?v=NlKgMEknR-c&list=PLCl89DA7ShYSztcMkgiDhJh2oH5lj4XeD
+https://www.youtube.com/watch?v=wER3xw2qrb4&list=PLCl89DA7ShYRCX-z6i5xGIxp_Io8yk-BY
+https://www.youtube.com/watch?v=T6TONc0obDo&list=PLCl89DA7ShYSkRyn3msnPsPwIm-cV4TQw
+https://www.youtube.com/watch?v=87yydMOZ5XI&list=PLCl89DA7ShYRGELmZYj4n2m6CKoL3GGrV&index=1
 
-Technical Documentation
-- Outline the topics and structure
-- Reader is Operations and IT Support team.
-- Use simple language, don't use long and complicated info.
-- Use archetucture diagrams to make the reader easy to understand.
-- Why, Who, What and Which?
-- New/Existing/Exp User, Troubleshooting, Internals and Reference.
-- Waterfall Model Fail.
-- Agile Project Management.
-
-
-- Business Logic, tech specification and User flows.
-- Project Documentation 
-	- Product Documentation.
-	- Process Documentation.
+Confluence:
