@@ -1,6 +1,8 @@
 Technical Documentation:
 https://www.altexsoft.com/blog/business/technical-documentation-in-software-development-types-best-practices-and-tools/
 https://www.nuclino.com/solutions/project-documentation
+https://slite.com/learn/technical-documentation
+https://document360.com/blog/technical-documentation/
 https://www.youtube.com/watch?v=z3fRu9pkuXE
 https://www.youtube.com/watch?v=2qlcY9LkFik
 
