@@ -1,0 +1,84 @@
+Waterfall
+- Plan - Build - Test - Review - Deploy
+- Several months
+- Approval to start
+
+Agile
+Make things simple - Plan - Demonstrations - Develop & Test in a short term of period
+
+Agile Values
+- Individuals and interactions over processes and tools.
+- Working software over comprehensive documentation.
+- Customer collaboration over contract negotiation.
+- Responding to changes over following a plan.
+- Adding Missed logic/feature - solve error ASAP - Faster product to market.
+
+
+Sprints:
+- time period at when we work on something with definitive end goal to achieve.
+- 1 - 3 Week. Best 2 weeks per sprint.
+	(Design - Development - Testing) ->|
+ 	^				          |
+	|____________________________|
+- Requiements -> task - how long will it suppose to take.
+- Requirements -> Tickets
+	- progress  is tracked and commented.
+- Once the sprint is closed priority is set to the next sprint. (sometime time take longer/shorter).
+- Something at the end of the sprint is know a Retrospective - to take stock of what went well and what could have gone better. (something worked/some thing didn't)
+- Person incharge of all the sprint is Scrum master.
+
+
+Stand ups:
+- Meeting while standing up - without any device.
+- What are people working on any issues regards, stuck on something or block by some one or anything.
+
+
+Agile is better when - small frequent updates are required and to get the app moved into the market fast. eg: Social media, video player
+Waterfall is better when - Quality is important than speed. eg: Bank app, Healthcare app.
+
+============================================================================================================================================
+
+Dry:
+- Don't repeat yourself
+- Ensure the logic is written in one place. eg: filter, search, sort, etc.
+- Reusing code leads to a leaner codebase.
+- oversimplifying can lead to more complexity.
+- make the codebase easier to read.
+- Prevent duplicate code and reuse dry code.
+
+============================================================================================================================================
+
+Scrum - Agile - Dev Ops
+
+Scrum is a method of Agile. Agile is the terms of project management.
+
+============================================================================================================================================
+
+3 Artifacts/Documents used in Scrum
+- Product Backlog - will have user stories created by product owner - format(As a _User_, I need ____. So that ____).
+- Sprint Backlog - highest priority user stories get into sprint backlog.
+- Burndown chart - is a graph to show the task/work beening completed by developers.
+
+3 Ceremonies
+- Sprint planning - Prioritising the task.
+- Daily Scrum - Stand up meeting to discuss the status.
+- Sprint Review - End of the sprint.
+
+
+Potentially Shippable Product
+- Product owner can decide if the product is ready to ship or any additional features could be added.
+
+Sprint Review
+- team shorcases the work to the product owner.
+
+Retrospective
+Team works on what they can do to improve the process.
+
+============================================================================================================================================
+
+
+Pull Request (PR)
+- Git.
+- Track of our codebase
+- Collaboration with others.
+
