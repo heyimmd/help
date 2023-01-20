@@ -82,3 +82,57 @@ Pull Request (PR)
 - Track of our codebase
 - Collaboration with others.
 
+============================================================================================================================================
+
+1. What was your main project (during your PG/UG)?
+Mohamed - Main - Malware Detection RFA - Python - Google Colab.
+Swaetha - Main - Fire detection useing CNN - Python - Google Colab - Gaggle Repo - OpenCV
+
+2. Have you developed any personal project?
+
+3. Have you user any coding/debuging platforms like HackerRank, HackerEarth, LeetCode, etc. ?
+
+4. What are the three tier of software application architecture?
+
+5. What is HTML/CSS/JS?
+
+6. What is hyperlink?
+
+7. Which type of css styling is faster?
+
+8. What's the difference btw == and === (double equal to and triple equal to)?
+
+9. Difference btw alert, prompt & confirm?
+
+10. What is API and how it works?
+
+11. You have any idea about UX & UI?
+
+12. Have you used any JS Frameworks?
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+
+https://www.altexsoft.com/blog/business/technical-documentation-in-software-development-types-best-practices-and-tools/
+https://www.nuclino.com/solutions/project-documentation
+
+https://www.youtube.com/watch?v=z3fRu9pkuXE
+https://www.youtube.com/watch?v=2qlcY9LkFik
+
+
+Technical Documentation
+- Outline the topics and structure
+- Reader is Operations and IT Support team.
+- Use simple language, don't use long and complicated info.
+- Use archetucture diagrams to make the reader easy to understand.
+- Why, Who, What and Which?
+- New/Existing/Exp User, Troubleshooting, Internals and Reference.
+- Waterfall Model Fail.
+- Agile Project Management.
+
+
+- Business Logic, tech specification and User flows.
+- Project Documentation 
+	- Product Documentation.
+	- Process Documentation.
